@@ -1,0 +1,35 @@
+1) Add string to number by creating a variable
+
+let a ="Deva"
+let b = 6 
+console.log(a+b)
+
+2) use type of operator to find the datatype
+
+let a ="Deva"
+let b = 6 
+console.log(a+b)
+console.log( typeof (a) ,(b))
+
+3) try to add new key to a const object and replace a value of any key
+
+const a = {
+  name: "Devashish",
+  Class :12,
+   section: "trye"
+}
+console.log(a)
+a['friend']="Nitin",
+a['name']= " Deva"
+console.log(a)
+
+4)program to create a word meaining dictionary and to access a single word in that
+
+const dicts= {
+  
+  demur:"to make objection.",
+  apprehend:"to take into custody; arrest by legal warrant or authority:",
+  FDP:"Freie Demokratische Part"
+}
+console.log (dicts.)
+console.log (dicts.demur)
